@@ -2,7 +2,7 @@
 
 I love gaming and coding, so eventually that came around to making games!
 
-I mainly make small programs and mini-games in C++ for now. Also learning socket programming in java.
+I mainly make small programs and mini-games in C++ for now.
 Also beginning to learn how to use the Unreal Engine 4 and 5 in hopes of creating more robust games.
 
 One day I hope to make something bigger, or be a part of a team that achieves something noticeable in the gaming industry.
