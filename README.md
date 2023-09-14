@@ -1,10 +1,11 @@
 👋 Hi! I'm @Saksiu
 
-I love gaming and coding, so eventually that came around to making games!
+I'm passionate about gaming and coding, and naturally, this led me to game development. 
+I used to work with Unreal Engine, but trying out Unity lately. 
+Currently, I'm working on a multi-person project in the Metroidvania genre, similar to classics like "Hollow Knight". 
 
-I mainly learn Java and C++, creating Unreal Engine games on the side, which you can access through my itch.io site.  
+While I have a solid foundation in C++, I'm now mainly focusing on sharpening my C# skills, which I find immensely versatile and powerful for game development.
 
-One day I hope to make something bigger, or be a part of a team that achieves something noticeable in the gaming industry.
-I believe videogames are one of the best interactive forms of entertainment, and I would like to be a part of that world.
+I believe video games are one of the finest forms of interactive entertainment, and I'm driven to make my mark in this captivating world. 
 
-Enjoy browsing through my repositories and projects!
+Feel free to dive into my repositories and projects. Enjoy!
